@@ -1,1 +1,1 @@
-# customER155
+This project provides a basic template for creating and managing custom ERC1155 tokens using Solidity and the OpenZeppelin library. It's an excellent way to get acquainted with non-fungible token (NFT) creation on Ethereum and start developing decentralized applications (dApps) that leverage this functionality.
